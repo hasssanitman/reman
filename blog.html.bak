@@ -261,11 +261,13 @@
                       <div class="content pt-4">
                         <h2 class="title is-1 has-text-dark">Blog</h2>
                         <p class="is-size-6">
-                          I'm a full stack developer specialised in frontend and
-                          backend development for complex scalable web apps. I
-                          write about software development on my blog. Want to
-                          know how I may help your project? Check out my project
-                          portfolio and online resume.
+                          I'm a full stack developer specialised in back-end
+                          and front-end development for complex scalable web
+                          apps. Want to know how I may help your project? Check
+                          out my project
+                          <a href="portfolio.html">portfolio</a>
+                          and
+                          <a href="resume.html">online resume</a>.
                         </p>
                       </div>
                     </div>
