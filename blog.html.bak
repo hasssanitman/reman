@@ -50,8 +50,8 @@
                 </figure>
                 <div class="content has-text-centered pt-4">
                   <p class="has-text-light">
-                    Hi, my name is Hassan Mohammadian and I'm a back-end
-                    developer. Welcome to my personal website!
+                    Hi, my name is Hassan Mohammadian and I'm a software 
+                    engineer. Welcome to my personal website!
                   </p>
                 </div>
                 <div class="content has-text-centered">
@@ -156,8 +156,7 @@
               </figure>
               <div class="content has-text-centered pt-4">
                 <p class="has-text-light">
-                  Hi, my name is Hassan Mohammadian and I'm a back-end
-                  developer. Welcome to my personal website!
+                  Hi, my name is Hassan Mohammadian and I'm a software engineer. Welcome to my personal website!
                 </p>
               </div>
               <div class="content has-text-centered">
@@ -261,10 +260,10 @@
                       <div class="content pt-4">
                         <h2 class="title is-1 has-text-dark">Blog</h2>
                         <p class="is-size-6">
-                          I'm a full-stack developer specializing in back-end
-                          and front-end development for complex scalable web
+                          I'm a software engineer specializing in backend
+                          and frontend development for complex scalable web
                           apps. Want to know how I may help with your project?
-                          Check out my project 
+                          Check out my projects 
                           <a href="portfolio.html">portfolio</a>
                           and
                           <a href="resume.html">online resume</a>.
