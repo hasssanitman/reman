@@ -117,3 +117,6 @@ div.contentbar {
 .crwon-color {
   color: #FFD700;
 }
+.fix-line-height {
+  line-height: 16px;
+}
