@@ -4,6 +4,6 @@ services:
   hasssanitman:
     build: .
     ports:
-      - "8081:80"
+      - "8088:80"
     container_name: hasssanitman
     restart: unless-stopped 
