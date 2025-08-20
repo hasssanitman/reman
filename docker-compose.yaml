@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  hasssanitman:
+    build: .
+    ports:
+      - "8081:80"
+    container_name: hasssanitman
+    restart: unless-stopped 
