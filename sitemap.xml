@@ -6,7 +6,7 @@
   
   <!-- Homepage -->
   <url>
-    <loc>https://hasssanitman.com/</loc>
+    <loc>https://hasssanitman.ir/</loc>
     <lastmod>2024-12-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -14,7 +14,7 @@
   
   <!-- Portfolio -->
   <url>
-    <loc>https://hasssanitman.com/portfolio.html</loc>
+    <loc>https://hasssanitman.ir/portfolio.html</loc>
     <lastmod>2024-12-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -22,7 +22,7 @@
   
   <!-- Resume -->
   <url>
-    <loc>https://hasssanitman.com/resume.html</loc>
+    <loc>https://hasssanitman.ir/resume.html</loc>
     <lastmod>2024-12-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -30,7 +30,7 @@
   
   <!-- Contact -->
   <url>
-    <loc>https://hasssanitman.com/contact.html</loc>
+    <loc>https://hasssanitman.ir/contact.html</loc>
     <lastmod>2024-12-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -38,35 +38,35 @@
   
   <!-- Case Studies -->
   <url>
-    <loc>https://hasssanitman.com/casestudy/yargar.html</loc>
+    <loc>https://hasssanitman.ir/casestudy/yargar.html</loc>
     <lastmod>2024-12-19</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>https://hasssanitman.com/casestudy/carbon.html</loc>
+    <loc>https://hasssanitman.ir/casestudy/carbon.html</loc>
     <lastmod>2024-12-19</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>https://hasssanitman.com/casestudy/ojrat.html</loc>
+    <loc>https://hasssanitman.ir/casestudy/ojrat.html</loc>
     <lastmod>2024-12-19</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>https://hasssanitman.com/casestudy/ibolak-automation.html</loc>
+    <loc>https://hasssanitman.ir/casestudy/ibolak-automation.html</loc>
     <lastmod>2024-12-19</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>https://hasssanitman.com/casestudy/nextcloud.html</loc>
+    <loc>https://hasssanitman.ir/casestudy/nextcloud.html</loc>
     <lastmod>2024-12-19</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>

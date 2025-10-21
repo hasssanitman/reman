@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://hasssanitman.com/sitemap.xml
+Sitemap: https://hasssanitman.ir/sitemap.xml
 
 # Allow all search engines to crawl all content
 # No restrictions on crawling
